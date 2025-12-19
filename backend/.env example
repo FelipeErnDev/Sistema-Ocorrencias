@@ -1,0 +1,9 @@
+DATABASE_HOST=localhost
+DATABASE_PORT=5432
+DATABASE_USER=postgres
+DATABASE_PASS=password
+DATABASE_NAME=backend-ocorrencias
+PORT=3001
+
+JWT_SECRET=umsegredoforte
+JWT_EXPIRES_IN=1h
